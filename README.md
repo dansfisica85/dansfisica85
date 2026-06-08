@@ -1,6 +1,6 @@
 <h1 align="center">Davi Antonino Nunes da Silva</h1>
-<h3 align="center">Analista e Desenvolvedor de Software - Anhanguera-SP</h3>
-<h3 align="center">Engenheiro de Software - FIAP</h3>
+<h3 align="center">Analista e Desenvolvedor de Software - Anhanguera</h3>
+<h3 align="center">Engenheiro de Software - FIAP (em formação)</h3>
 <p align="center">
   <a href="https://github.com/dansfisica85"><img src="https://img.shields.io/badge/GitHub-dansfisica85-181717?logo=github" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Foco-Educa%C3%A7%C3%A3o%20%26%20Tecnologia-0A66C2" alt="Foco" />
