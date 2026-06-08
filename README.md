@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Projetos%20Ativos-success" alt="Status" />
 </p>
 
-## 🚀 Projetos completos em destaque
-
-Com base na análise dos seus repositórios públicos, estes são os projetos mais completos (estrutura, documentação, funcionalidades e/ou deploy):
+## 🚀 Projetos em destaque
 
 1. **ADS Anhanguera — Plataforma Educacional**  
    🔗 https://github.com/dansfisica85/adsanhanguera  
