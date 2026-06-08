@@ -66,4 +66,4 @@
 
 - GitHub: https://github.com/dansfisica85
 - Email: professordavi85@gmail.com
-- LinkedIn: www.linkedin.com/in/davi-antonino-nunes-da-silva-28723a378
+- LinkedIn: www.linkedin.com/in/davinunesdasilva
