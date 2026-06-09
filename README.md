@@ -384,7 +384,7 @@
     <img src="https://img.shields.io/badge/📂_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
   </a>
   &nbsp;
-  <a href="analise-regina-read.vercel.app">
+  <a href="https://analise-regina-read.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="demo"/>
   </a>
 </p>
