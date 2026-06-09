@@ -33,7 +33,7 @@
 </h2>
 
 ```yaml
-🧑‍💻 Nome:        Davi Antonino Nunes da Silva
+🧑‍💻 Nome:         Davi Antonino Nunes da Silva
 💻 Atuação:      Desenvolvedor WEB Full Stack
 🎓 Formação:     Analista e Desenvolvedor de Software — Anhanguera-SP
 📚 Cursando:     Engenharia de Software — FIAP (2026–2029)
