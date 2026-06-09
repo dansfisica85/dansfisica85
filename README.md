@@ -1,3 +1,32 @@
+
+html
+<!-- ============ BANNER ============ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,50:3178C6,100:8E75B2&height=220&section=header&text=Davi%20Antonino%20Nunes%20da%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20e%20Desenvolvedor%20de%20Software&descSize=20&descAlignY=58" alt="banner"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dansfisica85">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=3178C6&center=true&vCenter=true&width=650&lines=Analista+e+Desenvolvedor+de+Software;Engenharia+de+Software+-+FIAP;EdTech+%7C+AgroTech+%7C+IA+%7C+Dados;Sempre+aprendendo+e+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dansfisica85&label=Visitas+no+perfil&color=3178C6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/dansfisica85?label=Seguidores&style=flat&color=8E75B2" alt="followers" />
+  <img src="https://img.shields.io/badge/+140_Cursos-Alura%20%7C%20DIO%20%7C%20Microsoft%20%7C%20FIAP-3178C6?style=flat" alt="cursos" />
+</p>
+
+---
+
+
+
+
+
+
+
+
+
 <h1 align="center">Davi Antonino Nunes da Silva</h1>
 <h3 align="center">Analista e Desenvolvedor de Software - Anhanguera</h3>
 <h3 align="center">Engenheiro de Software - FIAP (em formação)</h3>
