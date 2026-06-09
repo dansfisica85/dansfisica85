@@ -456,11 +456,11 @@ timeline
 |:---------:|:-------------:|:-------:|:------:|
 | 2026–2029 | **FIAP** | 🎯 Engenharia de Software | Bacharelado (em curso) |
 | 2022–2024 | **Anhanguera** | 💻 Análise e Desenvolvimento de Sistemas | Tecnólogo |
+| 2023—2024 | **UNIFATECIE** | 🏫 Gestão Escolar | Pós-Graduação (Lato Sensu) |
 | 2020–2021 | **UniFatecie** | 📚 Pedagogia — Educação Infantil | Licenciatura |
-| — 2015 | **UNIMES** | 🔭 Física | Licenciatura |
-| — 2024 | **UNIFATECIE** | 🏫 Gestão Escolar | Pós-Graduação (Lato Sensu) |
 | 2017–2019 | **UFSCar** | 📐 Ensino de Matemática no Ensino Médio | Pós-Graduação (Lato Sensu) |
 | 2017–2019 | **São Luís de Jaboticabal** | 🔬 Ensino de Matemática e Física | Pós-Graduação (Lato Sensu) |
+| 2013—2015 | **UNIMES** | 🔭 Física | Licenciatura |
 
 <br/>
 
