@@ -33,12 +33,14 @@
 </h2>
 
 ```yaml
-🧑‍💻 Nome:         Davi Antonino Nunes da Silva
+🧑‍💻 Nome:        Davi Antonino Nunes da Silva
+💻 Atuação:      Desenvolvedor WEB Full Stack
 🎓 Formação:     Analista e Desenvolvedor de Software — Anhanguera-SP
 📚 Cursando:     Engenharia de Software — FIAP (2026–2029)
 📜 Extensão:     +140 cursos livres (Alura, DIO, Microsoft, FIAP)
 🎯 Foco:         EdTech · AgroTech · Análise de Dados · IA
 🏗️ Perfil:       Desenvolvedor Full Stack com projetos reais em produção
+🌐 Idiomas:      Português (Nativo) · Inglês · Italiano · Espanhol · Francês
 💡 Lema:         "Quando ideias ganham propósito, elas transformam realidades."
 📍 Localização:  Sertãozinho - SP, Brasil
 ```
@@ -118,6 +120,21 @@
 </p>
 </details>
 
+<details open>
+<summary><b>🖥️ Hardware & Infraestrutura</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Montagem_de_PCs-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Montagem"/>
+  <img src="https://img.shields.io/badge/Manutenção_Hardware-555555?style=for-the-badge&logo=dell&logoColor=white" alt="Manutenção"/>
+  <img src="https://img.shields.io/badge/Formatação_/_SO-00ADEF?style=for-the-badge&logo=windows&logoColor=white" alt="Formatação"/>
+  <img src="https://img.shields.io/badge/Upgrade_Componentes-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Upgrade"/>
+  <img src="https://img.shields.io/badge/Diagnóstico_/_Reparo-ED1C24?style=for-the-badge&logo=ifixit&logoColor=white" alt="Diagnóstico"/>
+  <img src="https://img.shields.io/badge/Redes_/_Infraestrutura-0078D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+</details>
+
 <br/>
 
 <!-- ============ HABILIDADES FULL STACK ============ -->
@@ -172,6 +189,30 @@
         <li>Deploy contínuo e CI/CD via <b>Vercel</b></li>
         <li>Documentação técnica com <b>Mermaid</b></li>
         <li>Versionamento com <b>Git</b> & <b>GitHub</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🖥️ Hardware & Infraestrutura</h3>
+      <ul>
+        <li><b>Montagem</b> e configuração completa de computadores</li>
+        <li><b>Manutenção preventiva e corretiva</b> de hardware</li>
+        <li>Diagnóstico e <b>recuperação</b> de componentes</li>
+        <li><b>Upgrade</b> de memória, SSD, GPU, CPU e periféricos</li>
+        <li>Formatação e instalação de <b>Windows / Linux</b></li>
+        <li>Configuração de <b>redes</b> e infraestrutura local</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Educação & Liderança</h3>
+      <ul>
+        <li>Coordenação pedagógica e <b>gestão escolar</b></li>
+        <li>Elaboração de <b>materiais didáticos</b> digitais</li>
+        <li>Formação continuada de <b>educadores</b> em tecnologia</li>
+        <li>Ensino de <b>Programação, Robótica</b> e Inovação</li>
+        <li>Preparação para <b>vestibulares</b> (200+ alunos)</li>
+        <li><b>Gamificação</b> e metodologias ativas de ensino</li>
       </ul>
     </td>
   </tr>
@@ -384,25 +425,26 @@
 
 ```mermaid
 timeline
-    title Trajetória Profissional
-   2026-Atual: 🎓 Desenvolvedor WEB - Full-Stack
-   2026-Atual: 🎓 Professor de Programação e Dersenvolvimento de Software - Mediador Pedagógico — Cogna/Anhanguera
-             : Curso Superior de ADS
-   2026-Atual: Professor de Física e Matemática
-             : Ensino Médio/Técnico Profissionalizante
-   2008-2014 : 🏫 Agente / Gerente de Organização Escolar
-             : Gestão de RH, liderança e administração escolar
-   2017-2020 : 👨‍🏫 Professor de Física e Matemática (Efetivo)
-             : Concurso Público — Estado de São Paulo
-        2019 : 🎯 Professor Intensivão de Física — Anhanguera
-        2020 : 📋 PCNP — Coordenador Núcleo Pedagógico
-             : Elaboração de material COPED-SP (PEI)
-   2021-2023 : 🏢 Coordenador Gestor Pedagógico de Área
-             : Apoio a 200+ alunos (vestibulares)
-   2022-2023 : 💻 Desenvolvedor Web / Java — Freelancer
-    2024-2026: 🤖 Professor Especialista em Tecnologia
+    title Trajetória Profissional (Atual → Início)
+    2026-Atual: 🎓 Desenvolvedor WEB - Full Stack
+    2026-Atual: 🎓 Professor de Programação e Desenv. de Software
+             : Mediador Pedagógico — Cogna/Anhanguera (ADS)
+    2026-Atual: 👨‍🏫 Professor de Física e Matemática
+             : Ensino Médio / Técnico Profissionalizante
+    2026      : 📐 Coord. PAEET — Ensino Técnico
+             : Desenvolvimento de Sistemas
+    2024-2026 : 🤖 Professor Especialista em Tecnologia
              : Programação, Robótica e Currículo Digital
-         2026: 📐 Coord. PAEET — Ensino Técnico de Desenvolvimento de Sistemas
+    2022-2023 : 💻 Desenvolvedor Web / Java — Freelancer
+    2021-2023 : 🏢 Coordenador Gestor Pedagógico de Área
+             : Apoio a 200+ alunos (vestibulares)
+    2020      : 📋 PCNP — Coordenador Núcleo Pedagógico
+             : Elaboração de material COPED-SP (PEI)
+    2019      : 🎯 Professor Intensivão de Física — Anhanguera
+    2017-2020 : 👨‍🏫 Professor de Física e Matemática (Efetivo)
+             : Concurso Público — Estado de São Paulo
+    2008-2014 : 🏫 Agente / Gerente de Organização Escolar
+             : Gestão de RH, liderança e administração escolar
 ```
 
 <br/>
@@ -410,13 +452,15 @@ timeline
 <!-- ============ FORMAÇÃO ACADÊMICA ============ -->
 <h2>🎓 Formação Acadêmica</h2>
 
-| 📅 Período | 🏛️ Instituição | 📜 Curso |
-|:---------:|:-------------:|:-------:|
-| 2026–2029 | **FIAP** | 🎯 Bacharelado em Engenharia de Software |
-| 2022–2024 | **Anhanguera** | 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas |
-| 2020–2021 | **UniFatecie** | 📚 Licenciatura em Pedagogia |
-| 2017–2019 | **UFSCar** | 📐 Pós-Graduação em Ensino de Matemática (EM) |
-| 2017–2019 | **São Luís de Jaboticabal** | 🔬 Pfuós-Graduação em Ensino de Matemática e Física |
+| 📅 Período | 🏛️ Instituição | 📜 Curso | 📋 Tipo |
+|:---------:|:-------------:|:-------:|:------:|
+| 2026–2029 | **FIAP** | 🎯 Engenharia de Software | Bacharelado (em curso) |
+| 2022–2024 | **Anhanguera** | 💻 Análise e Desenvolvimento de Sistemas | Tecnólogo |
+| 2020–2021 | **UniFatecie** | 📚 Pedagogia — Educação Infantil | Licenciatura |
+| — 2015 | **UNIMES** | 🔭 Física | Licenciatura |
+| — 2024 | **UNIFATECIE** | 🏫 Gestão Escolar | Pós-Graduação (Lato Sensu) |
+| 2017–2019 | **UFSCar** | 📐 Ensino de Matemática no Ensino Médio | Pós-Graduação (Lato Sensu) |
+| 2017–2019 | **São Luís de Jaboticabal** | 🔬 Ensino de Matemática e Física | Pós-Graduação (Lato Sensu) |
 
 <br/>
 
@@ -432,6 +476,19 @@ timeline
 
 <p align="center">
   <b>+140 cursos livres de extensão</b> em Desenvolvimento Web, IA, Cloud, Dados, Segurança e Design
+</p>
+
+<br/>
+
+<!-- ============ IDIOMAS ============ -->
+<h2>🌍 Idiomas</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇧🇷_Português-Nativo-9ECE6A?style=for-the-badge" alt="Português"/>
+  <img src="https://img.shields.io/badge/🇺🇸_Inglês-Fluente-7AA2F7?style=for-the-badge" alt="Inglês"/>
+  <img src="https://img.shields.io/badge/🇮🇹_Italiano-Fluente-BB9AF7?style=for-the-badge" alt="Italiano"/>
+  <img src="https://img.shields.io/badge/🇪🇸_Espanhol-Profissional-F7768E?style=for-the-badge" alt="Espanhol"/>
+  <img src="https://img.shields.io/badge/🇫🇷_Francês-Intermediário-73DACA?style=for-the-badge" alt="Francês"/>
 </p>
 
 <br/>
