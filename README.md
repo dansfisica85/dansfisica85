@@ -1,213 +1,144 @@
-<div align="center">
+# Davi Antonino Nunes da Silva
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,25:4f46e5,50:7c3aed,75:9333ea,100:c026d3&height=240&section=header&text=Davi%20Antonino%20Nunes%20da%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=🚀%20Desenvolvedor%20Full%20Stack%20%7C%20Educador%20%7C%20Inovador&descSize=18&descAlignY=56&descColor=E0E7FF" alt="banner" />
+## Desenvolvedor Web Full Stack com foco em JavaScript
 
-<a href="https://github.com/dansfisica85">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+Angular+%C2%B7+Node.js+%C2%B7+Next.js;%F0%9F%8E%93+Engenharia+de+Software+FIAP+%7C+ADS+Anhanguera;%F0%9F%A4%96+EdTech+%C2%B7+AgroTech+%C2%B7+IA+%C2%B7+Data+Analytics" alt="Typing SVG" />
-</a>
+**JavaScript · TypeScript · Node.js · HTML · CSS · Turso · Deploy · Python**
 
-<br/>
+[Portfólio e currículo](https://profdavi-curriculo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/davinunesdasilva/) · [Contato](mailto:professordavi85@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=dansfisica85&label=👁️+Visitas+ao+Perfil&color=2563eb&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/dansfisica85?label=Seguidores&style=for-the-badge&color=7c3aed&logo=github" alt="followers" />
-<img src="https://img.shields.io/badge/🎓+140_Cursos-Alura%20%7C%20DIO%20%7C%20Microsoft%20%7C%20FIAP-16a34a?style=for-the-badge" alt="cursos" />
+## O que faço e o que ofereço
 
-</div>
+Sou desenvolvedor web Full Stack com foco no ecossistema JavaScript. Transformo necessidades reais em plataformas educacionais, interfaces interativas, jogos e dashboards, conectando front-end, APIs, banco de dados e publicação na web.
 
----
+Meu ponto forte é desenvolver com JavaScript, TypeScript, Node.js, HTML e CSS, trabalhar com Turso e levar uma aplicação até o deploy. Python, análise de dados e raciocínio matemático complementam essa atuação. Quero contribuir com uma equipe de tecnologia, construir novos projetos e continuar aprendendo com desafios reais.
 
-## 👤 Sobre Mim
+Atuo também como Professor Mediador no curso de Análise e Desenvolvimento de Sistemas da Anhanguera, em Sertãozinho. Essa vivência aproxima meu desenvolvimento das necessidades dos usuários e fortalece minha comunicação, minha didática e minha capacidade de transformar problemas em soluções utilizáveis.
 
-```text
-🧑‍💻 Nome:         Davi Antonino Nunes da Silva
-💻 Atuação:      Desenvolvedor WEB Full Stack
-🎓 Formação:     Analista e Desenvolvedor de Sistemas — Anhanguera-SP
-📚 Cursando:     Engenheiro de Software — FIAP (2026–2029)
-📜 Extensão:     +140 cursos livres (Alura, DIO, Microsoft, FIAP)
-🎯 Foco:         EdTech · AgroTech · Análise de Dados · IA
-🏗️ Perfil:       Desenvolvedor Full Stack com projetos reais em produção
-🌐 Idiomas:      Português (Nativo) · Inglês · Italiano · Espanhol · Francês
-💡 Lema:         "Quando ideias ganham propósito, elas transformam realidades."
-📍 Localização:  Sertãozinho - SP, Brasil
-```
+## Hard skills · competência aplicada em projetos
 
-> Desenvolvedor full-stack com formação multidisciplinar em Física, Matemática, Pedagogia e Engenharia de Software. Mais de **140 repositórios** no GitHub, com projetos completos, documentados e publicados em produção. Experiência real em criar plataformas educacionais, sistemas de análise de dados e soluções com IA — sempre com foco na transformação digital da educação e do agronegócio.
+Meu principal domínio técnico é o ecossistema JavaScript. Estas são as habilidades que aplico nas minhas entregas.
 
----
+### JavaScript e interfaces web
 
-## 🛠️ Tech Stack — Full Stack Developer
+Desenvolvimento de interfaces, formulários, interações e lógica de aplicação com JavaScript, TypeScript, HTML5 e CSS3. Uso de Angular, React/Next.js e Svelte conforme o projeto, além de componentes reutilizáveis e layouts responsivos.
 
-<details open>
-<summary>🎨 <b>Frontend</b></summary>
+*Aplicação prática: ADS26, Escopos 2026 e Super Furlan Bros.*
 
-<br/>
+### Node.js, APIs e integrações
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Criação de serviços com Node.js e Express, rotas e APIs REST, integração entre front-end e back-end, autenticação e controle de acesso por perfis. Conexão de recursos e serviços externos às necessidades da aplicação.
 
-</details>
+*Aplicação prática: serviços e funcionalidades da plataforma ADS26.*
 
-<details open>
-<summary>⚙️ <b>Backend & Banco de Dados</b></summary>
+### Turso, SQL e persistência
 
-<br/>
+Uso frequente de Turso/libSQL e SQLite: criação e organização de tabelas, consultas SQL, operações de cadastro, leitura, atualização e exclusão de dados, além de integração do banco com a aplicação.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Turso](https://img.shields.io/badge/Turso_/_libSQL-4FF8D2?style=for-the-badge&logo=turso&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-004880?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+*Aplicação prática: persistência de usuários, respostas e projetos no ADS26.*
 
-</details>
+### Git, deploy e manutenção
 
-<details open>
-<summary>🤖 <b>IA, Dados & Automação</b></summary>
+Versionamento com Git/GitHub, organização de dependências, configuração de variáveis de ambiente e publicação na Vercel. Acompanhamento do deploy, investigação de erros e evolução das aplicações depois da entrega.
 
-<br/>
+*Aplicação prática: publicação e manutenção dos meus projetos web.*
 
-![Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_/_Busca_Semântica-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR_Tesseract.js-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pyodide](https://img.shields.io/badge/Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-8B5CF6?style=for-the-badge&logo=scipy&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF_Parse-DC382D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+### Python, planilhas e análise de dados
 
-</details>
+Conhecimento sólido em Python, facilidade com planilhas, fórmulas, cálculos e pensamento abstrato. Uso desses recursos para análise de dados, scripts e automação, organização de informações e construção de indicadores, comparativos e dashboards.
 
-<details open>
-<summary>🔧 <b>DevOps & Ferramentas</b></summary>
+*Aplicação prática: análises educacionais e dashboards dos projetos REGINA.*
 
-<br/>
+### Hash, criptografia e proteção de dados
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Angular CLI](https://img.shields.io/badge/Angular_CLI-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+Conhecimento do algoritmo SHA-256 e de seu uso em verificações de integridade. Interesse em compreender e aplicar técnicas de criptografia de dados, estudando suas finalidades e limitações. Distingo hash, uma função de resumo, de criptografia reversível com chave.
 
-</details>
+*Conhecimento técnico complementar; aprofundamento contínuo em proteção de dados.*
 
-<details open>
-<summary>🖥️ <b>Hardware & Infraestrutura</b></summary>
+### IA integrada ao desenvolvimento
 
-<br/>
+Facilidade para conectar ferramentas e recursos de IA ao fluxo de programação e integrar assistentes às aplicações. Uso de IA para apoiar pesquisa, implementação, testes, revisão de código, documentação e exploração de soluções.
 
-![Montagem](https://img.shields.io/badge/Montagem_de_PCs-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Manutenção](https://img.shields.io/badge/Manutenção_Hardware-555555?style=for-the-badge&logo=dell&logoColor=white)
-![Formatação](https://img.shields.io/badge/Formatação_/_SO-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
-![Upgrade](https://img.shields.io/badge/Upgrade_Componentes-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Diagnóstico](https://img.shields.io/badge/Diagnóstico_/_Reparo-ED1C24?style=for-the-badge&logo=ifixit&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes_/_Infraestrutura-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+*Aplicação prática: meu fluxo de desenvolvimento e o assistente integrado ao ADS26.*
 
-</details>
+## Soft skills · como trabalho
 
----
+### Aprendizado rápido e contínuo
 
-## 💪 Habilidades Full Stack
+Tenho grande facilidade e entusiasmo para aprender. Diante de uma tecnologia ou problema novo, pesquiso, consulto documentação, experimento e aplico o conhecimento em uma solução concreta.
 
-### 🖥️ Frontend
-- SPAs com **Angular 21**, Signals & componentes standalone
-- Aplicações **Next.js 14** com SSR e TypeScript
-- Dashboards interativos com **Chart.js** & Canvas 2D
-- Interfaces responsivas com **Bootstrap** & **Tailwind CSS**
-- IDE web no navegador com **Monaco Editor**
-- Execução de Python client-side com **Pyodide**
+### Criatividade na resolução de problemas
 
-### 🔧 Backend
-- APIs REST com **Node.js** & **Express 5**
-- Autenticação **JWT** + **bcrypt** + controle por papéis
-- Banco de dados **SQLite** / **Turso (libSQL)**
-- Migrations, seeds e variáveis de ambiente
-- Deploy serverless na **Vercel**
-- Integração com **Google Gemini** (IA generativa)
-- APIs em **Java + Spring Boot 3** e **C# / .NET**
+Exploro alternativas, conecto conhecimentos de áreas diferentes e decomponho desafios em etapas. Mesmo sem uma resposta inicial, consigo começar pela investigação e avançar com hipóteses, protótipos e validação.
 
-### 📊 Dados & IA
-- Análise estatística com **Simulação de Monte Carlo**
-- **RAG** — Retrieval-Augmented Generation
-- **OCR** com Tesseract.js para extração de texto
-- Processamento de PDFs, planilhas e dados estruturados
-- KPIs, rankings e comparativos educacionais
-- Intervalos de confiança & Box-Muller
-- Análise de Dados com Python · SQL avançado · Azure ML
+### Adaptabilidade e atuação sob pressão
 
-### 🔐 Segurança & Arquitetura
-- Controle de acesso: **Admin · Coordenador · Aluno**
-- Middleware de autenticação e autorização
-- Sessão persistente (LocalStorage / Cookies)
-- Deploy contínuo e CI/CD via **Vercel**
-- Documentação técnica com **Mermaid**
-- Versionamento com **Git** & **GitHub**
+Adapto-me a mudanças, situações de conflito e desafios. Busco manter clareza, diálogo e organização sob pressão, revendo prioridades e comunicando dificuldades para construir uma solução.
 
-### 🖥️ Hardware & Infraestrutura
-- **Montagem** e configuração completa de computadores
-- **Manutenção preventiva e corretiva** de hardware
-- Diagnóstico e **recuperação** de componentes
-- **Upgrade** de memória, SSD, GPU, CPU e periféricos
-- Formatação e instalação de **Windows / Linux**
-- Configuração de **redes** e infraestrutura local
+### Comunicação interpessoal
 
-### 🎓 Educação & Liderança
-- Coordenação pedagógica e **gestão escolar**
-- Elaboração de **materiais didáticos** digitais
-- Formação continuada de **educadores** em tecnologia
-- Ensino de **Programação, Robótica** e Inovação
-- Preparação para **vestibulares** (200+ alunos)
-- **Gamificação** e metodologias ativas de ensino
+Explico ideias e decisões técnicas de forma acessível, escuto diferentes perspectivas e procuro alinhar expectativas. Minha experiência como professor fortalece o compartilhamento de conhecimento e o apoio a outras pessoas.
+
+### Trabalho em equipe e compromisso com entregas
+
+Assumo responsabilidade pela parte que me cabe no projeto e valorizo colaboração, feedback e transparência. Tenho afinidade com a dinâmica Scrum: alinhar tarefas, compartilhar progresso, sinalizar impedimentos e participar das entregas da equipe.
+
+### Iniciativa e entusiasmo por tecnologia
+
+Tenho muita vontade de participar de equipes de tecnologia, criar projetos novos e ampliar meu repertório. Gosto de transformar curiosidade em experimentação e conhecimento em melhorias úteis para o projeto.
+
+## IA como ferramenta de trabalho
+
+Acompanho a evolução das ferramentas de IA e busco utilizar recursos modernos e atualizados, escolhendo a ferramenta de acordo com a tarefa. Integro essas ferramentas ao meu fluxo para otimizar tempo, esclarecer dúvidas, gerar ideias, explorar implementações e apoiar a criação de testes e a revisão de código.
+
+Uso a IA como ferramenta de trabalho, com análise crítica e responsabilidade técnica. As sugestões passam por revisão e validação: testes, verificação de comportamento e análise de possíveis problemas de segurança fazem parte da entrega. A ferramenta apoia o processo; a decisão e a validação continuam sob minha responsabilidade.
+
+## Outras tecnologias · estudos e experiência inicial
+
+C#, .NET, Java, Spring Boot, PHP e C++ fazem parte dos meus estudos e contatos anteriores. Também tenho conhecimentos complementares em SQL Server, Oracle, AWS e Azure. Minha experiência prática varia entre essas tecnologias; elas não representam o mesmo nível de domínio e entrega que tenho no ecossistema JavaScript. Python complementa minhas competências fortes em programação e dados.
+
+Ainda não apresento projetos robustos nas demais linguagens como minha principal experiência profissional. Quando um projeto exige uma nova tecnologia, estou disposto a estudar, praticar e desenvolver a competência necessária para contribuir com responsabilidade.
+
+Minha formação multidisciplinar em Física, Matemática e Educação complementa a programação com raciocínio lógico, análise quantitativa e didática.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-<details open>
-<summary>🏆 <b>ADS Anhanguera — Plataforma Educacional Full Stack</b></summary>
+### ADS26 Anhanguera · plataforma para ensinar e praticar programação
 
-<br/>
+[Ver código e documentação](https://github.com/dansfisica85/adsanhanguera) · [Acessar plataforma](https://ads26-anhanguera.vercel.app/)
 
-📂 [Repositório](https://github.com/dansfisica85/adsanhanguera) · 🌐 [Live Demo](https://ads26-anhanguera.vercel.app)
+**Contexto:** Desenvolvi a plataforma para apoiar minhas aulas no curso de ADS da Anhanguera e a prática de programação dos meus alunos, especialmente JavaScript.
 
-Plataforma educacional **full-stack** para o curso de ADS da Anhanguera. Autenticação JWT, papéis de usuário, exercícios interativos, avaliação automática, IDE web (Monaco Editor), execução de Python via Pyodide, ranking gamificado, painel administrativo e biblioteca de documentos.
+**O que construí:** Uma aplicação Full Stack com autenticação e perfis de acesso, exercícios, avaliação automática, editor de código no navegador com preview, projetos de alunos, dashboards, biblioteca de materiais e assistente de IA integrado.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express 5](https://img.shields.io/badge/Express_5-000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Pyodide](https://img.shields.io/badge/Pyodide-3776AB?style=flat-square&logo=python&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Monaco](https://img.shields.io/badge/Monaco-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+**Tecnologias aplicadas:** JavaScript, HTML, CSS, Node.js, Express, Turso/libSQL, SQL, APIs, Monaco Editor e deploy na Vercel.
 
-</details>
+**O que posso oferecer a uma equipe:** Capacidade de transformar uma necessidade de uso em fluxos de interface, serviços, dados persistidos e uma aplicação publicada que pode continuar evoluindo.
+
+![ADS26: tela pública de acesso. Áreas de alunos e administração exigem autenticação.](assets/ads26.png)
+
+*ADS26: tela pública de acesso. Áreas de alunos e administração exigem autenticação.*
+
+### Super Furlan Bros · questionário educacional gamificado
+
+[Ver código e documentação](https://github.com/dansfisica85/Super-Furlan-Bros)
+
+**Contexto:** Criei um jogo educacional com questionário gamificado inspirado na Hierarquia de Necessidades de Maslow, voltado à escuta e ao acompanhamento de crianças e adolescentes.
+
+**O que desenvolvi:** Organização de 30 perguntas em cinco níveis, lógica de respostas e pontuação, transições, feedback visual e geração de relatórios descritos no código do projeto.
+
+**Finalidade:** Apoiar a identificação de possíveis vulnerabilidades a partir das respostas e orientar a atenção de educadores. É um recurso educacional de apoio, sem substituir avaliação humana ou diagnóstico profissional.
+
+**Tecnologias aplicadas:** HTML, CSS e JavaScript com ES Modules: lógica de aplicação, manipulação da interface, cálculos e estruturação de informações.
+
+**O que posso oferecer a uma equipe:** Criatividade para transformar uma proposta pedagógica em experiência interativa e capacidade de conectar regras, conteúdo, dados e interface.
+
+![Super Furlan Bros: tela inicial capturada em prévia local do código. Demonstração pública indisponível nesta revisão.](assets/super-furlan-bros.png)
+
+*Super Furlan Bros: tela inicial capturada em prévia local do código. Demonstração pública indisponível nesta revisão.*
+
+### Outras aplicações do meu repertório
 
 <details open>
 <summary>🎯 <b>Escopos 2026 — Plataforma Educacional Angular</b></summary>
@@ -593,6 +524,8 @@ Projeto DIO de simulador de corridas do Mario Kart desenvolvido com **Node.js** 
 ---
 
 ## 📈 GitHub Stats
+
+Estatísticas dos repositórios. As competências e os níveis de experiência estão descritos nas seções acima.
 
 <div align="center">
 
