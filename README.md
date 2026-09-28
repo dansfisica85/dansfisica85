@@ -350,6 +350,7 @@ Projeto DIO de simulador de corridas do Mario Kart desenvolvido com **Node.js** 
 
 | Período | Instituição | Curso | Tipo / Nível |
 |---|---|---|---|
+| Conclusão prevista: out/2026 | **Anhanguera Educacional** | 📊 MBA em Inteligência de Dados Aplicada à Negócios | Pós-Graduação — MBA (em andamento) |
 | fev 2026 – fev 2029 | **FIAP** | 🎯 Engenharia de Software (Computer Software Engineering) | Bacharelado em Engenharia (em curso) |
 | jul 2022 – jun 2024 | **Anhanguera Educacional** | 💻 Análise e Desenvolvimento de Sistemas (CST) | Tecnólogo (Concluído) |
 | fev 2024 – jul 2024 | **Centro Universitário UniFatecie** | 🏫 Gestão Escolar | Pós-Graduação Lato Sensu (Concluído) |
